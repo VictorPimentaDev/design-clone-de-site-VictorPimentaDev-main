@@ -1,0 +1,69 @@
+body {
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    font-family: source-serif-pro, Georgia, Cambria, "Times New Roman", Times, serif;
+}
+.caixatotal {
+    max-width: 800px;
+    padding: 0 20px;
+    box-sizing: border-box;
+}
+.boxinhaa{
+    display: block;
+    border-radius: 4px;
+    font-size: 6px;
+    margin-bottom: 19px;
+    font-family: source-code-pro, Menlo, Monaco, "Courier New", Courier, monospace;
+    padding: 32px;
+    background-color: EDEDE3;
+    margin-top: 20px;
+    border: 1px solid #E0E0E0;
+}
+.boxinhaa p {
+    font-size: 16px;
+    margin: -5px 0;
+    line-height: 1.6;
+    font-family: Menlo, Monaco, "Courier New", Courier, monospace;
+    font-weight: 400;
+}
+
+h1 {
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif; 
+    font-size: 42px;               
+    margin-bottom: 20px;
+    margin-top: 40px;          
+    font-weight: bold;            
+    font-style: normal;
+    text-align: center;          
+    font-weight: 700;
+}
+
+p {
+    font-weight: 400;
+    font-size: 20px;
+    margin: 20px 0;
+    line-height: 1.7;
+}
+
+pre {
+    padding: 20px 0;
+}
+
+img {
+    margin: 20px auto;
+    max-width: 100%;
+    height: auto;
+}
+
+h3 {
+    font-size: 1.6em;
+    letter-spacing: -1px;
+    margin-bottom: 10px;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 800;
+}
+
